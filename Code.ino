@@ -13,9 +13,9 @@
 #include <BlynkSimpleEsp8266.h>
 #include <EEPROM.h>
 
-char AUTH[] = "_-ArP1OBlqPKyi33-K6lZh17HxYGff1E"; //Blynk Auth Code
-char WIFI_SSID[] = "FIBRE_4g"; //Wifi name
-char WIFI_PASS[] = "togre123";  //Wifi Password
+char AUTH[] = "XXXXXXXXXXXXXXXXXXX"; //Blynk Auth Code
+char WIFI_SSID[] = "XXXXXXX"; //Wifi name
+char WIFI_PASS[] = "XXXXXXXXXXXX";  //Wifi Password
 int mq2 = A0; // smoke sensor is connected with the analog pin A0 
 int data = 0; 
 int load1, load2;
